@@ -15,7 +15,7 @@ You can use this library in:
     - Include the library in your `platformio.ini` file as bellow:
  ```INI
     lib_deps = 
-        diogo-dgc/dht-master@^1.0
+         https://github.com/diogo-dgc/dhtMaster@^1.0.0 ;DHT Master library
  ```
 
 ## Microcontroler Compatible
